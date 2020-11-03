@@ -1,6 +1,9 @@
 import sys
 import numpy as np
 
+"""
+test
+"""
 def euclidean_distance(x,y):
     sum=0
     for i in range(len(x)):
